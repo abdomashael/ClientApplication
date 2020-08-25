@@ -1,0 +1,10 @@
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\bin\Release\ClientApplication.exe.config
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\bin\Release\ClientApplication.exe
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\bin\Release\ClientApplication.pdb
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.csprojAssemblyReference.cache
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.Form1.resources
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.Properties.Resources.resources
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.exe
+C:\Users\Mashael\source\repos\ClientApplication\ClientApplication\obj\Release\ClientApplication.pdb

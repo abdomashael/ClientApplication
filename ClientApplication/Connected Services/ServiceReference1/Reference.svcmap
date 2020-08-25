@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="764e2527-ec3a-4073-a2a9-4540c0c821c5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8081/ItIWfc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ItIWfc.disco" MetadataType="Disco" ID="eb931ef6-3c29-47bc-8014-537dbd9eedf9" SourceId="1" SourceUrl="http://localhost:8081/ItIWfc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="786ceb22-dde1-4491-aa2e-e1d26cf0585f" SourceId="1" SourceUrl="http://localhost:8081/ItIWfc?wsdl" />
+    <MetadataFile FileName="ItIWfc.xsd" MetadataType="Schema" ID="cdef4b23-2d5a-4b5c-89b9-a55696809c8f" SourceId="1" SourceUrl="http://localhost:8081/ItIWfc?xsd=xsd0" />
+    <MetadataFile FileName="ItIWfc1.xsd" MetadataType="Schema" ID="291effbf-86e3-4f21-bdf1-6dd00ad43044" SourceId="1" SourceUrl="http://localhost:8081/ItIWfc?xsd=xsd1" />
+    <MetadataFile FileName="ItIWfc2.xsd" MetadataType="Schema" ID="7cc7a915-17c8-48e4-923f-a735572e02f2" SourceId="1" SourceUrl="http://localhost:8081/ItIWfc?xsd=xsd2" />
+    <MetadataFile FileName="ItIWfc3.xsd" MetadataType="Schema" ID="58c092b9-4b55-421e-88d6-78d3d9e21812" SourceId="1" SourceUrl="http://localhost:8081/ItIWfc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
